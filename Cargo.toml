@@ -1,0 +1,14 @@
+[package]
+name = "perfrs"
+version = "0.1.0"
+edition = "2024"
+default-run = "main"
+
+[dependencies]
+perf-event = "0.4.9"
+
+[workspace]
+resolver = "2"
+members = [
+    "macro",
+]

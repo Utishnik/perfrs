@@ -1,0 +1,9 @@
+    Software(Software),
+
+    #[allow(missing_docs)]
+    Cache(Cache),
+
+    #[allow(missing_docs)]
+    Breakpoint(Breakpoint),
+
+    а не тока хардваре
